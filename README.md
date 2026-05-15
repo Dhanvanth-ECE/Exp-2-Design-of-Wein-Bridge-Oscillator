@@ -7,15 +7,29 @@ EXP NO:2
 <img width="393" height="482" alt="image" src="https://github.com/user-attachments/assets/48cb864a-7acf-46a3-b6d2-56b474b180cc" />
 <img width="624" height="838" alt="image" src="https://github.com/user-attachments/assets/94b995c7-0df8-465e-a296-8b38a1f980a0" />
 <img width="610" height="426" alt="image" src="https://github.com/user-attachments/assets/1ab0aaa2-4bb0-4036-88fd-ae3507652315" />
+
 OSCILLATOR DESIGN
 
 CIRCUIT DIAGRAM
-<img width="1600" height="1061" alt="WhatsApp Image 2026-05-14 at 10 10 30 PM" src="https://github.com/user-attachments/assets/2e976ac0-1e75-4afb-8dfd-1ac2316d367d" />
+
+<img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/ef0d51e8-ac1c-47e8-9224-4f0b224025ee" />
+
+
+
 MODEL GRAPH
-<img width="1600" height="768" alt="WhatsApp Image 2026-05-14 at 10 11 17 PM" src="https://github.com/user-attachments/assets/50b17aa3-5e36-4db3-8c8b-b7309746858b" />
-<img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/8cbc8a0c-f8b2-42ad-9acc-259eddaf32ec" />
+
+<img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/4c5b709c-6b59-474a-be10-c68c7b5d6f28" />
+
+
 Tabulation
+
 Graph
+
+<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/dee2be5a-113e-40eb-98eb-8f0be98cb0fe" />
+
+
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/71c317b4-b3b3-4976-a94b-4af8a1e87fc6" />
+
 Practical frequency of Oscillation =
+
 Theoritical Frequency of Oscillation =
